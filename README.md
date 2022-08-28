@@ -1,3 +1,3 @@
 # Projects
-A repository containing the projects I worked on during undergrad
+A repository containing the game MeteorMan created by myself.
 
